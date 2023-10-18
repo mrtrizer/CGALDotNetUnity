@@ -1,0 +1,8 @@
+{
+  "name": "com.scrawk.cgal-net",
+  "version": "1.0.0",
+  "displayName": "CGALDotNetUnity",
+  "description": "C# wrapper for CGAL",
+  "unity": "2021.3",
+  "license": "GPL-3.0",
+}
